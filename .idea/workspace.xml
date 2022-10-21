@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f86b8d8-42b5-4dae-bab4-b0a8800833d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/LocalConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/DBConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/MySqlConnector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/services/TestaConexão.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/TestaConexão.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/LocalConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/LocalConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,21 +88,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/services/TestaConexão.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/repository/LocalConnection.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

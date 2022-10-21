@@ -2,6 +2,15 @@ package model;
 
 public class Product {
 
+    public Product(final String nome, final String descricao) {
+        this.nome = nome;
+        this.descricao = descricao;
+    }
+
+    public Product(){
+
+    }
+
     private Integer id;
     private String nome;
     private String descricao;
