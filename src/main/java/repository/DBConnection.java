@@ -1,11 +1,10 @@
 package repository;
 
-import model.Products;
+import model.Product;
 
-import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.List;
 
 public interface DBConnection {
-    List<Products> getAllProducts() throws SQLException;
+    List<Product> getAllProducts() throws SQLException;
 }

@@ -1,6 +1,6 @@
 package model;
 
-public class Products {
+public class Product {
 
     private Integer id;
     private String nome;
